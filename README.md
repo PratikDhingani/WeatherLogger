@@ -22,4 +22,5 @@ Create an Android application to save weather conditions for your current locati
 9) Frequently feating data based on locaion update.
 
 Please find apk at https://github.com/PratikDhingani/WeatherLogger/WeatherLogger.apk
-**Screenshots** : 
+
+**Screenshots** : https://github.com/PratikDhingani/WeatherLogger/tree/main/Screenshots
