@@ -21,6 +21,6 @@ Create an Android application to save weather conditions for your current locati
 8) **Retrofit** : To fetch the data from Web Api.
 9) Frequently feating data based on locaion update.
 
-Please find apk at https://github.com/PratikDhingani/WeatherLogger/WeatherLogger.apk
+Please find apk at https://github.com/PratikDhingani/WeatherLogger/blob/main/WeatherLogger.apk
 
 **Screenshots** : https://github.com/PratikDhingani/WeatherLogger/tree/main/Screenshots
