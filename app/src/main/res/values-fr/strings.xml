@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Enregistreur météo</string>
+    <string name="save">Sauvegarder</string>
+    <string name="humidity_label">Humidité</string>
+    <string name="wind_label">Vent</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="no_saved_data_found">Aucune donnée enregistrée n\'a été trouvée</string>
+    <string name="morning">Matin</string>
+    <string name="evening">Soirée</string>
+    <string name="night">Nuit</string>
+    <string name="view_data">Afficher les données</string>
+</resources>

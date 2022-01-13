@@ -1,0 +1,57 @@
+<resources>
+    <dimen name="spacing_medium">5dp</dimen>
+    <dimen name="spacing_middle">10dp</dimen>
+    <dimen name="spacing_large">15dp</dimen>
+    <dimen name="spacing_mlarge">20dp</dimen>
+    <dimen name="spacing_xlarge">35dp</dimen>
+    <dimen name="spacing_xxlarge">50dp</dimen>
+    <dimen name="spacing_xxxlarge">60dp</dimen>
+    <dimen name="drag_dismiss_distance">112dp</dimen>
+    <dimen name="saved_data_layout_padding">5dp</dimen>
+    <dimen name="saved_data_date_size">15sp</dimen>
+    <dimen name="saved_data_layout_divider">1dp</dimen>
+    <dimen name="saved_data_layout_divider_margin_top">20dp
+    </dimen>
+    <dimen name="saved_data_layout_divider_margin_bottom">20dp
+    </dimen>
+    <dimen name="saved_data_description_margin_bottom">10dp
+    </dimen>
+    <dimen name="saved_data_layout_divider_margin_left">10dp
+    </dimen>
+    <dimen name="saved_data_layout_divider_margin_right">10dp
+    </dimen>
+    <dimen name="fragment_weather_saved_data_layout_height">70dp
+    </dimen>
+    <dimen name="fragment_weather_saved_data_layout_padding_left">10dp
+    </dimen>
+    <dimen name="fragment_weather_saved_data_layout_margin_right">10dp
+    </dimen>
+    <dimen name="no_data_found_text_size">20sp</dimen>
+    <dimen name="fragment_weather_data_cloud_animation_height">150dp
+    </dimen>
+    <dimen name="fragment_weather_data_scrollview_margin_top">10dp
+    </dimen>
+    <dimen name="fragment_weather_data_scrollview_margin_bottom">10dp
+    </dimen>
+    <dimen name="fragment_weather_data_cardview_radius">30dp
+    </dimen>
+    <dimen name="fragment_weather_data_cardviewminmax_radius">10dp
+    </dimen>
+    <dimen name="fragment_weather_data_cardview_margin_top">10dp
+    </dimen>
+    <dimen name="fragment_weather_data_cardvieweve_radius">10dp
+    </dimen>
+    <dimen name="fragment_weather_data_button_layout_height">60dp
+    </dimen>
+    <dimen name="fragment_weather_data_button_text_size">18sp
+    </dimen>
+    <dimen name="fragment_weather_data_appname_text_size">30sp
+    </dimen>
+    <dimen name="fragment_weather_saved_Data_back_width">40dp
+    </dimen>
+    <dimen name="fragment_weather_saved_Data_back_height">40dp
+    </dimen>
+    <dimen name="fragment_weather_saved_data_appname_text_size">20sp
+    </dimen>
+    <dimen name="sunrise_height">150dp</dimen>
+</resources>

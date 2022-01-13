@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather Logger</string>
+    <string name="save">Save</string>
+    <string name="humidity_label">Humidity</string>
+    <string name="wind_label">Wind</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="no_saved_data_found">No saved data found</string>
+    <string name="morning">Morning</string>
+    <string name="evening">Evening</string>
+    <string name="night">Night</string>
+    <string name="view_data">View Data</string>
+</resources>
